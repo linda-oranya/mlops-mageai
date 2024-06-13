@@ -1,4 +1,7 @@
 projects:
+  opaque_silversmith: {}
+  training_pipelines:
+    path: training_pipelines
   unit_0_setup: {}
   unit_1_data_preparation: {}
   unit_2_training: {}
